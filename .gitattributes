@@ -1,0 +1,4 @@
+*.asset filter=lfs diff=lfs merge=lfs -text
+Apocalypse/Assets/Abandoned_Asylum/Show/LightingData.asset filter=lfs diff=lfs merge=lfs -text
+Apocalypse/Assets/Abandoned_Asylum/*.* filter=lfs diff=lfs merge=lfs -text
+Apocalypse/** filter=lfs diff=lfs merge=lfs -text
